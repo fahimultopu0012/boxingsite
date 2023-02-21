@@ -1,0 +1,1 @@
+jQuery(document).ready(function(){jQuery("h1").on("click",function(){alert("h1 is clicked")})});
